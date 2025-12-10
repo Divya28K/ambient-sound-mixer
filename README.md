@@ -1,5 +1,9 @@
 # Ambient Sound Mixer 🎵
 
+## Live Demo 
+
+![Screenshot](./images/screen.png)
+
 ## ✨ Features
 
 ### 🎛️ Sound Mixing
